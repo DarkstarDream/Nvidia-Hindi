@@ -50,4 +50,4 @@ __`Data Pirates🏴‍☠️ (Our Team Name)`__
 |:-|
 |[Animesh Singh](https://github.com/animeshdebug7)|
 |[Aishwarya Kshirsagar](https://github.com/AishwaryaKshirsagar)| 
-|[Darkstar](https://github.com/DarkstarDream) (me)| 
+|[Aman Kumar Verma](https://github.com/buggyprogrammer) (me)| 
